@@ -1,0 +1,11 @@
+{
+  "name": "keep an eye on My Little Fledgling",
+  "short_name": "MyLtlF",
+  "icons": [
+    {
+      "src": "icon_192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
